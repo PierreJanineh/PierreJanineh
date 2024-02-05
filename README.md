@@ -5,7 +5,7 @@
 - 🔭 **I’m currently working on** developing innovative mobile applications using Swift and Kotlin. I'm especially focused on enhancing user experience and integrating cutting-edge technologies.
 - 👯 **I’m looking to collaborate on** Open-source projects, particularly those focused on mobile development, IoT, or AI. I love contributing to projects that have a positive social impact.
 - 💬 **Ask me about** Anything related to iOS/Android app development, UI/UX design principles, or starting a career in tech. I'm also a tech gadgets enthusiast, so feel free to reach out for a chat about the latest tech trends!
-- 📫 **How to reach me:** You can drop me an email at info@pierrejanineh.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pierrejanineh/).
+- 📫 **How to reach me:** You can drop me an email at me@pierrejanineh.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pierrejanineh/).
 - ⚡ **Fun fact:** When I'm not coding, I enjoy hiking and exploring nature trails. I'm also an amateur photographer, capturing moments from my travels. You can check out my humble [gallery](https://pierrejanineh.com/gallery).
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
