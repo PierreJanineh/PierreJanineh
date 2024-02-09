@@ -15,6 +15,10 @@
 
 ![Env](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
 
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=pierrejanineh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40) -->
+<!-- ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pierrejanineh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) -->
+![AllStats](https://myreadme.vercel.app/api/embed/pierrejanineh?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+
 ## Released apps
 ### Storage Analysis ![iTunes App Store](https://img.shields.io/itunes/v/1567754378?label=Storage%20Analysis)
 
