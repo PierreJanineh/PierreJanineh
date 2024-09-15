@@ -26,9 +26,11 @@
 
 ![Env](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
 
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=pierrejanineh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40) -->
-<!-- ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pierrejanineh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) -->
-![AllStats](https://myreadme.vercel.app/api/embed/pierrejanineh?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+[![Pierre's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/pierrejanineh#gh-dark-mode-only)
+[![Pierre's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/pierrejanineh#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrejanineh&hide=scss,html,css,javascript&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/pierrejanineh#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrejaninehhide=scss,html,css,javascript&langs_count=8&layout=compact&theme=default#gh-light-mode-only)](https://github.com/pierrejanineh#gh-light-mode-only)
 
 ## Released apps
 ### Miflas
