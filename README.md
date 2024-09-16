@@ -26,11 +26,11 @@
 
 ![Env](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
 
-[![Pierre's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/pierrejanineh#gh-dark-mode-only)
-[![Pierre's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/pierrejanineh#gh-light-mode-only)
+[![Pierre's GitHub stats-Dark](https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/pierrejanineh#gh-dark-mode-only)
+[![Pierre's GitHub stats-Light](https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/pierrejanineh#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrejanineh&hide=scss,html,css,javascript&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/pierrejanineh#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierrejanineh&hide=scss,html,css,javascript&langs_count=8&layout=compact&theme=default#gh-light-mode-only)](https://github.com/pierrejanineh#gh-light-mode-only)
+[![Top Langs](https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=scss,html,css,javascript,python,jupyter%20notebook,c,tex,fortran&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/pierrejanineh#gh-dark-mode-only)
+[![Top Langs](https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=scss,html,css,javascript,python,jupyter%20notebook,c,tex,fortran&langs_count=8&layout=compact&theme=default#gh-light-mode-only)](https://github.com/pierrejanineh#gh-light-mode-only)
 
 ## Released apps
 ### Miflas
