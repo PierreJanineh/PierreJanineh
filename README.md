@@ -2,10 +2,12 @@
 ## I'm Pierre Janineh 😄 He/Him
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/6799230)
 
+👉 [Jump to my released apps](#released-apps)
+
 [**PierreJanineh**](https://github.com/pierrejanineh): ![GitHub Stars](https://img.shields.io/github/stars/pierrejanineh)
 
 [**PierreJanineh.com**](https://github.com/pierrejanineh-com): ![GitHub Stars](https://img.shields.io/github/stars/pierrejanineh-com)
-- 🔭 **I’m currently working on** developing innovative mobile applications using Swift and Kotlin. I'm especially focused on enhancing user experience and integrating cutting-edge technologies.
+- 🔭 **I’m currently working on** developing innovative mobile applications using Swift and Kotlin. I'm especially focused on enhancing user experience and integrating cutting-edge technologies. [Go to my released apps](#released-apps)
 - 👯 **I’m looking to collaborate on** Open-source projects, particularly those focused on mobile development, IoT, or AI. I love contributing to projects that have a positive social impact.
 - 💬 **Ask me about** Anything related to iOS/Android app development, UI/UX design principles, or starting a career in tech. I'm also a tech gadgets enthusiast, so feel free to reach out for a chat about the latest tech trends!
 - 📫 **How to reach me:** You can drop me an email at me@pierrejanineh.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pierrejanineh/).
