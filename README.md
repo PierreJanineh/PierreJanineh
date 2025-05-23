@@ -13,10 +13,14 @@
 - 📫 **How to reach me:** You can drop me an email at me@pierrejanineh.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pierrejanineh/).
 - ⚡ **Fun fact:** When I'm not coding, I enjoy hiking and exploring nature trails. I'm also an amateur photographer, capturing moments from my travels. You can check out my humble [gallery](https://pierrejanineh.com/gallery).
 
+***
+
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,7 +33,15 @@
 ![After Effects](https://aleen42.github.io/badges/src/after_effects.svg)
 ![Zeplin](https://aleen42.github.io/badges/src/zeplin.svg)
 
-![Env](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)
+[![Env](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+
+***
+
+### Blogs:
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pierrejanineh)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/programming-with-pierre)
+
+***
 
 [![Pierre's GitHub stats-Dark](https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/pierrejanineh#gh-dark-mode-only)
 [![Pierre's GitHub stats-Light](https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/pierrejanineh#gh-light-mode-only)
