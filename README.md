@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Pierre Janineh 😄 He/Him
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/6799230)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/6799230)](https://stackoverflow.com/users/6799230/pierre-janineh)
 
 👉 [Jump to my released apps](#released-apps)
 
