@@ -1,91 +1,95 @@
-### Hi there 👋
-## I'm Pierre Janineh 😄 He/Him
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/6799230)](https://stackoverflow.com/users/6799230/pierre-janineh)
+<p align="center">
+  <samp>Making pixels behave in Software.</samp>
+</p>
 
-👉 [Jump to my released apps](#released-apps)
+<samp>
+  <p align="center">
+    <a href="https://pierrejanineh.com">pierrejanineh.com</a> ·
+    <a href="https://stackoverflow.com/users/6799230/pierre-janineh">Stack Overflow</a> ·
+    <a href="https://dev.to/pierrejanineh">Blog</a> ·
+    <a href="https://medium.com/programming-with-pierre">Medium</a> ·
+    <a href="https://www.linkedin.com/in/pierrejanineh/">LinkedIn</a>
+  </p>
+</samp>
 
-[**PierreJanineh**](https://github.com/pierrejanineh): ![GitHub Stars](https://img.shields.io/github/stars/pierrejanineh)
+<br />
 
-[**PierreJanineh.com**](https://github.com/pierrejanineh-com): ![GitHub Stars](https://img.shields.io/github/stars/pierrejanineh-com)
-- 🔭 **I’m currently working on** developing innovative mobile applications using Swift and Kotlin. I'm especially focused on enhancing user experience and integrating cutting-edge technologies. [Go to my released apps](#released-apps)
-- 👯 **I’m looking to collaborate on** Open-source projects, particularly those focused on mobile development, IoT, or AI. I love contributing to projects that have a positive social impact.
-- 💬 **Ask me about** Anything related to iOS/Android app development, UI/UX design principles, or starting a career in tech. I'm also a tech gadgets enthusiast, so feel free to reach out for a chat about the latest tech trends!
-- 📫 **How to reach me:** You can drop me an email at me@pierrejanineh.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pierrejanineh/).
-- ⚡ **Fun fact:** When I'm not coding, I enjoy hiking and exploring nature trails. I'm also an amateur photographer, capturing moments from my travels. You can check out my humble [gallery](https://pierrejanineh.com/gallery).
+<h3 align="center">Apps on the App Store</h3>
 
-***
+<p align="center">
+  <a href="https://apps.apple.com/us/app/miflas/id6504677390">
+    <img src="assets/miflas.png" width="64" alt="Miflas" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/storage-analysis/id1567754378">
+    <img src="assets/storage-analysis.png" width="64" alt="Storage Analysis" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/loccali-for-shortcuts/id6449942222">
+    <img src="assets/loccali.png" width="64" alt="Loccali" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/nikud-keyboard/id1570902547">
+    <img src="assets/nikud-keyboard.png" width="64" alt="Nikud Keyboard" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/queerabic-%D9%85%D9%8A%D9%85-lgbt-stickers/id1572342622">
+    <img src="assets/queerabic.png" width="64" alt="Queerabic" />
+  </a>
+</p>
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<br />
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<h3 align="center">Open Source</h3>
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/PierreJanineh/TechDebtMCP">
+        <img src="https://img.shields.io/badge/MCP_Server-TechDebtMCP-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTEyIDIwaDlNMTYuNSAzLjVhMi4xMiAyLjEyIDAgMCAxIDMgM0w3IDE5bC00IDEgMS00WiIvPjwvc3ZnPg==" alt="TechDebtMCP" />
+      </a>
+      <br />
+      <sub>Analyze & track technical debt via Model Context Protocol</sub>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/PierreJanineh/TechDebtMCP?style=social" alt="Stars" />
+    </td>
+  </tr>
+</table>
 
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
-![After Effects](https://aleen42.github.io/badges/src/after_effects.svg)
-![Zeplin](https://aleen42.github.io/badges/src/zeplin.svg)
+<p align="center">
+  <a href="https://github.com/PierreJanineh-com/ProgressUI"><strong>ProgressUI</strong></a> · Animated progress indicators for SwiftUI &nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/ProgressUI?style=social" alt="Stars" />
+  <br />
+  <a href="https://github.com/PierreJanineh-com/InfinityScrollKit"><strong>InfinityScrollKit</strong></a> · Infinite scroll for SwiftUI, UIKit & AppKit &nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/InfinityScrollKit?style=social" alt="Stars" />
+  <br />
+  <a href="https://github.com/PierreJanineh-com/ClukUI"><strong>ClukUI</strong></a> · Clock visualizations for SwiftUI &nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/ClukUI?style=social" alt="Stars" />
+  <br />
+  <a href="https://github.com/PierreJanineh-com/expo-quicklook-preview"><strong>expo-quicklook-preview</strong></a> · Expo module wrapping iOS QLPreviewController &nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/expo-quicklook-preview?style=social" alt="Stars" />
+</p>
 
-[![Env](https://img.shields.io/badge/Apple-MacBook_Pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+<br />
 
-***
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
+  <br />
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/6799230?style=flat&logo=stackoverflow&logoColor=white&label=Stack%20Overflow" alt="Stack Overflow reputation" />
+</p>
 
-### Blogs:
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pierrejanineh)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/programming-with-pierre)
-
-***
-
-[![Pierre's GitHub stats-Dark](https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/pierrejanineh#gh-dark-mode-only)
-[![Pierre's GitHub stats-Light](https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/pierrejanineh#gh-light-mode-only)
-
-[![Top Langs](https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=scss,html,css,javascript,python,jupyter%20notebook,c,tex,fortran&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/pierrejanineh#gh-dark-mode-only)
-[![Top Langs](https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=scss,html,css,javascript,python,jupyter%20notebook,c,tex,fortran&langs_count=8&layout=compact&theme=default#gh-light-mode-only)](https://github.com/pierrejanineh#gh-light-mode-only)
-
-## Released apps
-### Miflas
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/12/02/d9120211-c404-2b5b-a9d5-728d7f228e70/AppIcon-1x_U007epad-0-85-220-0.jpeg/540x540bb.jpg" alt="Miflas" style="width: 50px; height: 30px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> ![iTunes App Store](https://img.shields.io/itunes/v/6504677390?label=Miflas)
-
-<a href="https://apps.apple.com/us/app/miflas/id6504677390?itscg=30200&itsct=apps_box_badge&mttnsubad=6504677390" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1719100800" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px; vertical-align: middle; object-fit: contain;" />
-</a>
-
-### Storage Analysis
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/08/1d/5a/081d5a05-de2c-76af-7db5-b0c0f81f4a67/App_Icon-marketing.lsr/540x540bb.jpg" alt="Storage Analysis" style="width: 50px; height: 30px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> ![iTunes App Store](https://img.shields.io/itunes/v/1567754378?label=Storage%20Analysis)
-
-<a href="https://apps.apple.com/us/app/storage-analysis/id1567754378?itscg=30200&itsct=apps_box_badge&mttnsubad=1567754378" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1621123200" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px; vertical-align: middle; object-fit: contain;" />
-</a>
-
-### Loccali: for Shortcuts
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/74/6e/02746e6f-acfa-4625-f2c9-d3a2c7e938a1/AppIcon-0-1x_U007epad-0-85-220-0.jpeg/540x540bb.jpg" alt="Loccali: for Shortcuts" style="width: 30px; height: 30px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> ![iTunes App Store](https://img.shields.io/itunes/v/6449942222?label=Loccali:%20for%20Shortcuts)
-
-<a href="https://apps.apple.com/us/app/loccali-for-shortcuts/id6449942222?itscg=30200&itsct=apps_box_badge&mttnsubad=6449942222" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1687392000" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px; vertical-align: middle; object-fit: contain;" />
-</a>
-
-### Nikud Keyboard - מקלדת ניקוד
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/51/4f/de514f45-8d14-d252-829c-6ab163defaa1/AppIcon-0-0-1x_U007epad-0-85-220.png/540x540bb.jpg" alt="Nikud Keyboard" style="width: 30px; height: 30px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> ![iTunes App Store](https://img.shields.io/itunes/v/1570902547?label=Nikud%20Keyboard)
-
-<a href="https://apps.apple.com/us/app/nikud-keyboard/id1570902547?itscg=30200&itsct=apps_box_badge&mttnsubad=1570902547" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1622851200" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px; vertical-align: middle; object-fit: contain;" />
-</a>
-
-### Queerabic
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/1c/d9/70/1cd970fe-d1b6-cf7b-db48-0d1ced1958cf/iMessage_App_Icon-0-0-1x_U007emarketing-0-0-0-0-0-3-sRGB-0-0-0-GLES2_U002c0-512MB-85-181-0-0.png/540x540bb.jpg" alt="Queerabic - ميم: LGBT Stickers" style="width: 30px; height: 30px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;"> ![iTunes App Store](https://img.shields.io/itunes/v/1572342622?label=Queerabic)
-
-<a href="https://apps.apple.com/us/app/queerabic-%D9%85%D9%8A%D9%85-lgbt-stickers/id1572342622?itscg=30200&itsct=apps_box_badge&mttnsubad=1572342622" style="display: inline-block;">
-  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1623801600" alt="Download on the App Store" style="border-radius: 13px; width: 100px; height: 33.2px; vertical-align: middle; object-fit: contain;" />
-</a>
+<details>
+<summary align="center">
+  <h3>GitHub Stats</h3>
+</summary>
+<br />
+<p align="center">
+  <img src="https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark#gh-dark-mode-only" alt="Pierre's GitHub stats-Dark" />
+  <img src="https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=default#gh-light-mode-only" alt="Pierre's GitHub stats-Light" />
+</p>
+<p align="center">
+  <img src="https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=typescript,jupyter%20notebook,html,javascript,python,css,scss,mdx&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs-Dark" />
+  <img src="https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=typescript,jupyter%20notebook,html,javascript,python,css,scss,mdx&langs_count=8&layout=compact&theme=default#gh-light-mode-only" alt="Top Langs-Light" />
+</p>
+</details>
