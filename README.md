@@ -18,23 +18,23 @@
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/miflas/id6504677390">
-    <img src="assets/miflas.png" width="64" alt="Miflas" title="Miflas" />
+    <img src="https://raw.githubusercontent.com/PierreJanineh-com/.github/main/profile/assets/miflas.png" width="64" alt="Miflas" title="Miflas" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/loccali-for-shortcuts/id6449942222">
-    <img src="assets/loccali.png" width="64" alt="Loccali" title="Loccali" />
+    <img src="https://raw.githubusercontent.com/PierreJanineh-com/.github/main/profile/assets/loccali.png" width="64" alt="Loccali" title="Loccali" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/storage-analysis/id1567754378">
-    <img src="assets/storage-analysis.png" height="64" alt="Storage Analysis" title="Storage Analysis" />
+    <img src="https://raw.githubusercontent.com/PierreJanineh-com/.github/main/profile/assets/storage-analysis.png" height="64" alt="Storage Analysis" title="Storage Analysis" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/nikud-keyboard/id1570902547">
-    <img src="assets/nikud-keyboard.png" width="64" alt="Nikud Keyboard" title="Nikud Keyboard" />
+    <img src="https://raw.githubusercontent.com/PierreJanineh-com/.github/main/profile/assets/nikud-keyboard.png" width="64" alt="Nikud Keyboard" title="Nikud Keyboard" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/queerabic-%D9%85%D9%8A%D9%85-lgbt-stickers/id1572342622">
-    <img src="assets/queerabic.png" width="64" alt="Queerabic" title="Queerabic" />
+    <img src="https://raw.githubusercontent.com/PierreJanineh-com/.github/main/profile/assets/queerabic.png" width="64" alt="Queerabic" title="Queerabic" />
   </a>
 </p>
 
