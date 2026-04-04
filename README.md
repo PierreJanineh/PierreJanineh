@@ -21,12 +21,12 @@
     <img src="assets/miflas.png" width="64" alt="Miflas" title="Miflas" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://apps.apple.com/us/app/storage-analysis/id1567754378">
-    <img src="assets/storage-analysis.png" height="64" alt="Storage Analysis" title="Storage Analysis" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/loccali-for-shortcuts/id6449942222">
     <img src="assets/loccali.png" width="64" alt="Loccali" title="Loccali" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/storage-analysis/id1567754378">
+    <img src="assets/storage-analysis.png" height="64" alt="Storage Analysis" title="Storage Analysis" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/nikud-keyboard/id1570902547">
@@ -57,13 +57,13 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/PierreJanineh-com/ProgressUI"><strong>ProgressUI</strong></a> · Animated progress indicators for SwiftUI &nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/ProgressUI?style=social" alt="Stars" />
+  <a href="https://github.com/PierreJanineh-com/ProgressUI"><strong>ProgressUI</strong></a> · Animated progress indicators for SwiftUI &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/ProgressUI?style=social" alt="Stars" />
   <br />
-  <a href="https://github.com/PierreJanineh-com/InfinityScrollKit"><strong>InfinityScrollKit</strong></a> · Infinite scroll for SwiftUI, UIKit & AppKit &nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/InfinityScrollKit?style=social" alt="Stars" />
+  <a href="https://github.com/PierreJanineh-com/InfinityScrollKit"><strong>InfinityScrollKit</strong></a> · Infinite scroll for SwiftUI, UIKit & AppKit &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/InfinityScrollKit?style=social" alt="Stars" />
   <br />
-  <a href="https://github.com/PierreJanineh-com/ClukUI"><strong>ClukUI</strong></a> · Clock visualizations for SwiftUI &nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/ClukUI?style=social" alt="Stars" />
+  <a href="https://github.com/PierreJanineh-com/ClukUI"><strong>ClukUI</strong></a> · Clock visualizations for SwiftUI &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/ClukUI?style=social" alt="Stars" />
   <br />
-  <a href="https://github.com/PierreJanineh-com/expo-quicklook-preview"><strong>expo-quicklook-preview</strong></a> · Expo module wrapping iOS QLPreviewController &nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/expo-quicklook-preview?style=social" alt="Stars" />
+  <a href="https://github.com/PierreJanineh-com/expo-quicklook-preview"><strong>expo-quicklook-preview</strong></a> · Expo module wrapping iOS QLPreviewController &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/PierreJanineh-com/expo-quicklook-preview?style=social" alt="Stars" />
 </p>
 
 <br />
@@ -85,15 +85,9 @@
 </summary>
 <br />
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark" />
-    <img src="https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=default" alt="Pierre's GitHub stats" />
-  </picture>
+  <img src="https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark" alt="Pierre's GitHub stats" />
 </p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=typescript,jupyter%20notebook,html,javascript,python,css,scss,mdx&langs_count=8&layout=compact&theme=dark" />
-    <img src="https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=typescript,jupyter%20notebook,html,javascript,python,css,scss,mdx&langs_count=8&layout=compact&theme=default" alt="Top Langs" />
-  </picture>
+  <img src="https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=typescript,jupyter%20notebook,html,javascript,python,css,scss,mdx&langs_count=8&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 </details>
