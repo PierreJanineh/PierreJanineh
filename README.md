@@ -85,11 +85,15 @@
 </summary>
 <br />
 <p align="center">
-  <img src="https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark#gh-dark-mode-only" alt="Pierre's GitHub stats-Dark" />
-  <img src="https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=default#gh-light-mode-only" alt="Pierre's GitHub stats-Light" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark" />
+    <img src="https://readmestats.pierrejanineh.com/api?username=pierrejanineh&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&theme=default" alt="Pierre's GitHub stats" />
+  </picture>
 </p>
 <p align="center">
-  <img src="https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=typescript,jupyter%20notebook,html,javascript,python,css,scss,mdx&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs-Dark" />
-  <img src="https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=typescript,jupyter%20notebook,html,javascript,python,css,scss,mdx&langs_count=8&layout=compact&theme=default#gh-light-mode-only" alt="Top Langs-Light" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=typescript,jupyter%20notebook,html,javascript,python,css,scss,mdx&langs_count=8&layout=compact&theme=dark" />
+    <img src="https://readmestats.pierrejanineh.com/api/top-langs/?username=pierrejanineh&hide=typescript,jupyter%20notebook,html,javascript,python,css,scss,mdx&langs_count=8&layout=compact&theme=default" alt="Top Langs" />
+  </picture>
 </p>
 </details>
